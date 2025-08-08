@@ -1,10 +1,5 @@
 <h1 align="left">Hey there👋 This is Bhushan!</h1>
 
-###
-
-<br clear="both">
-
-<p align="left"></p>
 
 ###
 
